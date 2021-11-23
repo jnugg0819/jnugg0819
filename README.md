@@ -7,13 +7,13 @@
 <br/>  
 
 ## Github details
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Olio&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olio&show_icons=true&locale=en&layout=compact" alt="Olio" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jnugg0819&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnugg0819&show_icons=true&locale=en&layout=compact" alt="jnugg0819" align="center"/></div> 
 
 <br/>
 
 ## Connect with me  
 <div align="center">
-<a href="mailto:gaeng1107@gmail.com" target="_blank">
+<a href="mailto:jnugg0819@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/g4eng" target="_blank">
