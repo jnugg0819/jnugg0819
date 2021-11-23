@@ -1,17 +1,13 @@
-### <div align="center">I'm Kyle, A passionate iOS developer who love UI/UX design from Korea 👨‍💻 working since 2020 🚀 </div>  
-
-- 📝 I regularly write articles on https://g4eng.github.io  
+### <div align="center">I'm Olio, I'm Android developer from Korea 👨‍💻 working since 2020 🚀 </div>  
  
-- 🌱 I’m currently learning Data analytics, RxSwift, SwiftUI, Realm  
-
-- ❓ Ask me about anything related to iOS development tech   
  
-- ⚡ Fun fact: I am a grammar nerd in both real language and programming language  
+- 🌱 I’m currently learning JetPack, RxKotlin
+
  
 <br/>  
 
 ## Github details
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=g4eng&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=g4eng&show_icons=true&locale=en&layout=compact" alt="g4eng" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Olio&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olio&show_icons=true&locale=en&layout=compact" alt="Olio" align="center"/></div> 
 
 <br/>
 
