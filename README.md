@@ -9,7 +9,7 @@
 <br/>  
 
 ## Github details
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Olio&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olio&show_icons=true&locale=en&layout=compact" alt="Olio" align="center"/></div> 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jnugg0819&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jnugg0819&show_icons=true&locale=en&layout=compact" alt="Olio" align="center"/></div>  
 
 <br/>
 
